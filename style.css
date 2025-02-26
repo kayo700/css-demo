@@ -8,6 +8,8 @@ body {
     background-color: #1E1E1E;
     padding-inline: 20px;
     max-width: 1024px;
+    background-color: aqua;
+    margin-inline: auto;
 }
 
 main {
